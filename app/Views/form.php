@@ -14,7 +14,7 @@
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
     </script>
     <link rel="stylesheet" href="css/form.css">
-    <!-- <link rel="stylesheet" href="css/templete.css"> -->
+    <link rel="stylesheet" href="css/templete.css">
 </head>
 
 <body>
